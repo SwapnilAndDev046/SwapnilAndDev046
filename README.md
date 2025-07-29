@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## 🔥 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilAndDev046&layout=compact&theme=dark&hide_border=true&langs_count=10&count_private=true)
+
+
 <!--
 **SwapnilAndDev046/SwapnilAndDev046** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
