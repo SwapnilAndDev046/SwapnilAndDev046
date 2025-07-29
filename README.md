@@ -1,12 +1,16 @@
 <h2 align="center">👋 Hi there, Welcome to my GitHub page!</h2>
 
-I'm currently diving deep into **Data Structures and Algorithms in Java** ☕📚
-
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on DSA in Java
-- 🌱 I’m learning Web Development in java
-- 💬 Ask me about Java, DSA, Spring Boot, and Git
+I'm Swapnil, a final-year Computer Science student passionate about building real-world applications and solving problems using code.
+
+Currently, I'm focused on mastering **Data Structures and Algorithms in Java** ☕.  
+In the future, I aspire to work at a **Java-based software company**, contributing to backend systems, APIs, and scalable architectures.
+
+Feel free to check out my GitHub repositories where I share my progress, learning projects, and explorations in Java.
+
+> I'm always eager to learn, grow, and collaborate on meaningful tech projects.
+
 
 ## 🔥 Most Used Languages
 
