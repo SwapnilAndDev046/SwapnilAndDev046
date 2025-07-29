@@ -7,3 +7,9 @@ I'm currently diving deep into **Data Structures and Algorithms in Java** ☕�
 ## 🔥 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilAndDev046&layout=compact&theme=dark&hide_border=true&langs_count=10&count_private=true)
+
+---
+
+## 📊 GitHub Contributions
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SwapnilAndDev046&theme=github-dark&hide_border=true)
