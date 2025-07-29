@@ -7,7 +7,7 @@ I'm Swapnil, a final-year Computer Science student passionate about building rea
 Currently, I'm focused on mastering **Data Structures and Algorithms in Java** ☕.  
 In the future, I aspire to work at a **Java-based software company**, contributing to backend systems, APIs, and scalable architectures.
 
-Feel free to check out my GitHub repositories where I share my progress, learning projects, and explorations in Java.
+Feel free to check out my GitHub repositories.
 
 > I'm always eager to learn, grow, and collaborate on meaningful tech projects.
 
