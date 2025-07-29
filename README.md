@@ -2,7 +2,11 @@
 
 I'm currently diving deep into **Data Structures and Algorithms in Java** ☕📚
 
----
+## 🙋‍♂️ About Me
+
+- 🔭 I’m currently working on DSA in Java
+- 🌱 I’m learning Web Development in java
+- 💬 Ask me about Java, DSA, Spring Boot, and Git
 
 ## 🔥 Most Used Languages
 
@@ -10,6 +14,4 @@ I'm currently diving deep into **Data Structures and Algorithms in Java** ☕�
 
 ---
 
-## 📊 GitHub Contributions
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SwapnilAndDev046&theme=github-dark&hide_border=true)
