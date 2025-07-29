@@ -1,4 +1,4 @@
-## 👋 Hi there, Welcome to my GitHub page!
+<h2 align="center">👋 Hi there, Welcome to my GitHub page!</h2>
 
 I'm currently diving deep into **Data Structures and Algorithms in Java** ☕📚
 
