@@ -18,17 +18,4 @@
   </a>
 </p>
 
----
-
-### Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,hibernate,git,github,postman,idea&theme=dark" alt="Java, Spring Boot, PostgreSQL, MySQL, Hibernate, Git, GitHub, Postman and IntelliJ IDEA" />
-</p>
-
-<p align="center">
-  Java · Spring Boot · Spring Security · REST APIs · JDBC · JPA · Hibernate · Flyway · PostgreSQL · MySQL
-</p><p align="center">
-  <img src="./assets/dash-flash.gif" width="100%" alt="Animated dark developer header" />
-</p>
 
