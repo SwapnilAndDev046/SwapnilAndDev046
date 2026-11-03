@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./Adobe Express - pixilart-1791535445738.gif" width="100%" alt="Animated dark developer header" />
-</p>
+
 
 <h1 align="center">Swapnil Devkate</h1>
 
